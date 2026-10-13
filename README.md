@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rakesh 👋
 
-<!--
-**Rakeshbhandary08/Rakeshbhandary08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student (BCA, 2027) building full-stack and AI-powered web apps.
+Currently looking for an SDE internship.
 
-Here are some ideas to get you started:
+## What I've built
+- **[Builder AI](https://builder-ai-frontendd.onrender.com/)**: AI website builder that turns prompts into editable React sites. 20+ users, 50+ sites generated.
+- **[Prescripto](https://prescripto-frontend-3r3q.onrender.com/)**: MERN doctor appointment platform with patient, doctor and admin roles.
+- **[IPRateLimiter](https://github.com/Rakeshbhandary08/IPRateLimiter)**: Redis-backed rate limiter for Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+JavaScript · TypeScript · React · Node.js · Express · MongoDB · Tailwind CSS
+
+## Currently learning
+Docker · Prisma · System Design
+
+## Find me
+[LeetCode](https://leetcode.com/u/RakeshBhandary) · rakeshbhandary08@gmail.com
