@@ -1,6 +1,6 @@
 # Hi, I'm Rakesh 👋
 
-CS student (BCA, 2027) building full-stack and AI-powered web apps.
+Software Developer building full-stack and AI-powered web apps.
 Currently looking for an SDE internship.
 
 ## What I've built
